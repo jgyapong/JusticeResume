@@ -1,0 +1,51 @@
+#sum{
+    background-color: none;
+
+
+}
+body{
+    background-color: rgb(191, 200, 200)
+}
+
+
+.navbar{
+    font-size: 30px;
+    background-color: grey;
+    padding: 15px 15px;
+    
+    
+    
+}
+p{
+    font-size: 18px;
+}
+
+h4{
+    font-size: 18px;
+}
+
+
+.navbar a{
+    color: white;
+
+}
+img{
+   
+    border-radius: 50px;
+    padding: 5px;
+    height: 15%;
+    width:15%;
+}
+
+li{
+    font-size: 18px;
+}
+#self{
+background-color: ivory;
+}
+#workEx{
+background-color: aliceblue;
+}
+#footer {
+    text-align: center;
+}
